@@ -4,7 +4,7 @@
     "description": "APP",
     "start_url": "/index.html",
     "display": "standalone",
-    "background_color": "#ffc0b",
+    "background_color": "#FFCBA4",
     "theme_color": "PINK",
     "icons": [
       {
